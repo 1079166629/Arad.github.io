@@ -1,5 +1,5 @@
 # Arad.github.io
-![picture](./picture.png)
+![image](picture.png)
 <!DOCTYPE html>
 <html>
   <head>
